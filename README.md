@@ -16,6 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 To run the test cases
 
-### `npm test`
+### `npm run test`
 
 Launches the test runner in the interactive watch mode.
